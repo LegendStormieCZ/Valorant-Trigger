@@ -1,1 +1,2 @@
 off=false
+Trigger-bot is currently under maintanance.
