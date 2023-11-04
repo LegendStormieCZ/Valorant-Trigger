@@ -1,2 +1,2 @@
-off=false
-Trigger-bot is currently under maintanance.
+off=true
+Owmer of blitz trigger has decided to turn of Blitz Trigger, there is a chance that Blitz-Trigger will be again online but we are not giving any promises
